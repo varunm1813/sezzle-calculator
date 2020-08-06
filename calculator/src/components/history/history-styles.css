@@ -1,0 +1,9 @@
+ol {
+  padding-left: 10px;
+}
+li {
+  text-align: left;
+  padding: 7px 10px;
+  background-color: #eeeeee;
+  border: 1px solid #dddddd;
+}
